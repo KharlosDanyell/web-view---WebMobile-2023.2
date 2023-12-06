@@ -18,6 +18,10 @@
       "supportsTablet": true
     },
     "android": {
+      "useNextNotificationsApi": true,
+      "webviewSourceUrl": {
+        "http://192.168.1.5:3001": true
+      },
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
